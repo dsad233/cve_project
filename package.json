@@ -1,12 +1,13 @@
 {
   "name": "cve_project",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "main.js",
   "license": "MIT",
   "type": "module",
   "dependencies": {
     "body-parser": "^1.20.3",
     "dotenv": "^16.4.7",
+    "exceljs": "^4.4.0",
     "express": "^4.21.2",
     "node-fetch": "^3.3.2"
   }
